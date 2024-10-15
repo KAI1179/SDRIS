@@ -8,7 +8,7 @@ Reference this [repo](https://github.com/DerrickWang005/CRIS.pytorch) for enviro
 
 This implementation only supports **multi-gpu**, **DistributedDataParallel** training, which is faster and simpler; single-gpu or DataParallel training is not supported. Besides, the evaluation only supports single-gpu mode.
 
-To do training of SDASD with multiple GPUs, run:
+To do training of SDRIS with multiple GPUs, run:
 
 ```
 # e.g., Evaluation on the val-set of the RefCOCO dataset
