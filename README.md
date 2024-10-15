@@ -1,4 +1,4 @@
-# RIS
+# SDRIS
 
 Reference this [repo](https://github.com/DerrickWang005/CRIS.pytorch) for environmental configuration and dataset preparation
 
